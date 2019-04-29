@@ -1,0 +1,24 @@
+
+.Apartments{
+  position: absolute;
+ 
+  left:300px;
+}
+.Tenants{
+  position: absolute;
+  left:700px;
+}
+.Building{
+  position: absolute;
+  left:1100px;
+}
+.Landlords{
+  position: absolute;
+  left:1500px;
+}
+.delete{
+  position: absolute;
+  top: 500px;
+}
+
+

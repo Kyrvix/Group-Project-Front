@@ -1,0 +1,24 @@
+{
+    "id": "5ca1f8a1b29d4716943025d7",
+    "building": "The Heart",
+    "title": "908",
+    "elements": [],
+    "roomNumber": 2,
+    "tracks": [
+        {
+            "id": "0",
+            "title": "Room 1",
+            "elements": [
+                {
+                    "id": "0",
+                    "title": "Mohammed Alamas",
+                    "start": "2019-01-14T00:00:00.000+0000",
+                    "end": "2019-04-26T00:00:00.000+0000"
+                }
+            ]
+        }
+    ],
+    "currentState": "Clean",
+    "landlord": "Joe Bloggs",
+    "isOpen": true
+}

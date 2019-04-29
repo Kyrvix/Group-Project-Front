@@ -1,0 +1,46 @@
+.DisplayTable{
+    position: absolute;
+    left:30%;  
+}
+.DisplayBuildingTable{
+    position: absolute;
+    left:30%;  
+}
+.DisplayLandlordTable{
+    position: absolute;
+    left:80%;  
+}
+.DisplayTenantsTable{
+    position: absolute;
+    right: 5%;
+}
+th {
+    text-align: center;
+    width: 150px;
+}
+td{
+    text-align:center;
+    width:150px;
+}
+.searchBar{
+    display: inline-flex;
+    width: 50%;
+    text-align: left;
+    justify-content: space-between;
+    align-items: left;
+    margin: 6px ;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #282c34;
+
+    /*Was Thinking Of Having This Curved UnComment Below Code To Do This  */
+    /* border-color: #282c34;
+    border-style: hidden;
+    border-radius: 20px; */
+}
+/* .searchCriteria input{
+     border-radius: 32px;
+     border-style: hidden;
+     padding: 3px; 
+}    */
